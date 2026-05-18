@@ -25,6 +25,13 @@ $address = [
     'zip'    => '03103',
 ];
 
+// ─── Legal / Entity ─────────────────────────────────────────
+$entityType       = 'Limited Liability Company';
+$stateOfFormation = 'New Hampshire';
+$contactEmail     = $email ?: 'info@jon-s-shafts-stuff-llc.pageone.cloud';
+$contactPhone     = $phone;
+$businessAddress  = $address['street'] . ', ' . $address['city'] . ', ' . $address['state'] . ' ' . $address['zip'];
+
 // ─── Domain & URLs ───────────────────────────────────────────
 $domain  = 'jon-s-shafts-stuff-llc.pageone.cloud';
 $siteUrl = 'https://' . $domain;
