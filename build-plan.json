@@ -1,0 +1,381 @@
+{
+  "seo": {
+    "target_radius": 25,
+    "primary_keyword": "auto repair manchester nh",
+    "secondary_keywords": [
+      "transmission repair manchester nh",
+      "engine repair manchester nh",
+      "car brake repair manchester nh",
+      "oil change manchester nh",
+      "auto mechanic manchester nh",
+      "ac repair manchester nh",
+      "suspension repair manchester nh",
+      "driveshaft repair manchester nh",
+      "battery replacement manchester nh",
+      "transmission leak inspection manchester nh",
+      "exhaust repair manchester nh",
+      "routine car maintenance manchester nh"
+    ]
+  },
+  "tier": "standard",
+  "email": "",
+  "pages": [
+    {
+      "slug": "auto-repair-services",
+      "type": "service_group",
+      "title": "Auto Repair Services in Manchester, NH",
+      "sections": "hero, service_cards_grid, individual_service_details, process, cta",
+      "services": [
+        "Engine Repair",
+        "Transmission Repair",
+        "Routine Automotive Maintenance"
+      ],
+      "primary_keyword": "routine automotive maintenance Manchester NH"
+    },
+    {
+      "slug": "seasonal-services",
+      "type": "service_group",
+      "title": "Seasonal Services in Manchester, NH",
+      "sections": "hero, service_cards_grid, individual_service_details, process, cta",
+      "services": [
+        "Brake Repair & Service",
+        "Oil Change Service",
+        "AC Repair & Service"
+      ],
+      "primary_keyword": "brake repair & service Manchester NH"
+    },
+    {
+      "slug": "transmission-leak-inspection",
+      "type": "service",
+      "title": "Transmission Leak Inspection in Manchester, NH",
+      "sections": "hero, service_details, process, testimonials, cta",
+      "services": [
+        "Transmission Leak Inspection"
+      ],
+      "primary_keyword": "transmission leak inspection Manchester NH"
+    },
+    {
+      "slug": "suspension-repair",
+      "type": "service",
+      "title": "Suspension Repair in Manchester, NH",
+      "sections": "hero, service_details, process, testimonials, cta",
+      "services": [
+        "Suspension Repair"
+      ],
+      "primary_keyword": "suspension repair Manchester NH"
+    },
+    {
+      "slug": "battery-replacement",
+      "type": "service",
+      "title": "Battery Replacement in Manchester, NH",
+      "sections": "hero, service_details, process, testimonials, cta",
+      "services": [
+        "Battery Replacement"
+      ],
+      "primary_keyword": "battery replacement Manchester NH"
+    },
+    {
+      "slug": "exhaust-system-repair",
+      "type": "service",
+      "title": "Exhaust System Repair in Manchester, NH",
+      "sections": "hero, service_details, process, testimonials, cta",
+      "services": [
+        "Exhaust System Repair"
+      ],
+      "primary_keyword": "exhaust system repair Manchester NH"
+    },
+    {
+      "slug": "driveshaft-repair-replacement",
+      "type": "service",
+      "title": "Driveshaft Repair & Replacement in Manchester, NH",
+      "sections": "hero, service_details, process, testimonials, cta",
+      "services": [
+        "Driveshaft Repair & Replacement"
+      ],
+      "primary_keyword": "driveshaft repair & replacement Manchester NH"
+    }
+  ],
+  "phone": "",
+  "assets": {
+    "logo": {
+      "url": "https://db.pageone.cloud/storage/v1/object/public/client-assets/jon-s-shafts-stuff-llc/logo/1779135437767-kxlo46-Logo.png",
+      "storage_path": "jon-s-shafts-stuff-llc/logo/1779135437767-kxlo46-Logo.png"
+    },
+    "images": [
+      {
+        "alt": "",
+        "url": "https://db.pageone.cloud/storage/v1/object/public/client-assets/jon-s-shafts-stuff-llc/logo/1779135437767-kxlo46-Logo.png",
+        "page": "any",
+        "role": null,
+        "caption": "",
+        "context": "logo",
+        "storage_path": "jon-s-shafts-stuff-llc/logo/1779135437767-kxlo46-Logo.png",
+        "quality_score": null
+      },
+      {
+        "alt": "",
+        "url": "https://db.pageone.cloud/storage/v1/object/public/client-assets/jon-s-shafts-stuff-llc/photos/1779135543192-prddsd-unnamed.webp",
+        "page": "any",
+        "role": null,
+        "caption": "",
+        "context": "other",
+        "storage_path": "jon-s-shafts-stuff-llc/photos/1779135543192-prddsd-unnamed.webp",
+        "quality_score": null
+      }
+    ],
+    "page_allocations": null,
+    "recommended_hero_image": {
+      "alt": "",
+      "url": "https://db.pageone.cloud/storage/v1/object/public/client-assets/jon-s-shafts-stuff-llc/logo/1779135437767-kxlo46-Logo.png",
+      "context": "logo",
+      "quality_score": null
+    }
+  },
+  "design": {
+    "fonts": {},
+    "notes": "",
+    "style": "bold",
+    "colors": {
+      "accent": "#06b6d4",
+      "primary": "#1a2b3c",
+      "secondary": "#4d5e6f",
+      "extracted_from_logo": false
+    },
+    "logo_analysis": {}
+  },
+  "domain": "jon-s-shafts-stuff-llc",
+  "phases": [
+    {
+      "name": "scaffold",
+      "phase": 1,
+      "status": "pending"
+    },
+    {
+      "name": "nav_footer_head",
+      "phase": 2,
+      "status": "pending"
+    },
+    {
+      "name": "homepage",
+      "phase": 3,
+      "status": "pending"
+    },
+    {
+      "name": "inner_pages",
+      "phase": 4,
+      "status": "pending"
+    },
+    {
+      "name": "seo_aeo_deploy",
+      "phase": 5,
+      "status": "pending"
+    }
+  ],
+  "address": {
+    "zip": "03103",
+    "city": "Manchester",
+    "state": "NH",
+    "street": "518 Silver St"
+  },
+  "content": {
+    "usps": [],
+    "years": 33,
+    "insurance": "",
+    "description": "",
+    "certifications": []
+  },
+  "reviews": [],
+  "tagline": "Spin Stronger. Run Longer.",
+  "industry": "auto_repair",
+  "services": [
+    {
+      "name": "Engine Repair",
+      "keywords": [
+        "engine repair Manchester NH",
+        "auto engine repair",
+        "car engine service Manchester",
+        "engine diagnostics"
+      ],
+      "description": "Professional engine repair services for all vehicle makes and models in Manchester, NH. We diagnose and fix engine problems from minor issues to complete overhauls."
+    },
+    {
+      "name": "Transmission Repair",
+      "keywords": [
+        "transmission repair Manchester NH",
+        "auto transmission service",
+        "transmission rebuild Manchester",
+        "transmission specialist"
+      ],
+      "description": "Expert transmission repair and maintenance for automatic and manual transmissions in Manchester. Our technicians handle everything from fluid changes to complete transmission rebuilds."
+    },
+    {
+      "name": "Routine Automotive Maintenance",
+      "keywords": [
+        "car maintenance Manchester NH",
+        "automotive maintenance services",
+        "vehicle maintenance Manchester",
+        "preventative maintenance"
+      ],
+      "description": "Keep your vehicle running smoothly with our comprehensive maintenance services in Manchester, NH. We offer regular inspections, fluid checks, and preventative care."
+    },
+    {
+      "name": "Transmission Leak Inspection",
+      "keywords": [
+        "transmission leak inspection Manchester",
+        "transmission leak repair",
+        "fluid leak detection",
+        "Manchester transmission service"
+      ],
+      "description": "Expert transmission leak diagnosis and repair in Manchester, NH. We quickly identify the source of leaks and provide reliable solutions to prevent costly damage."
+    },
+    {
+      "name": "Brake Repair & Service",
+      "keywords": [
+        "brake repair Manchester NH",
+        "brake service Manchester",
+        "brake replacement",
+        "brake pad service"
+      ],
+      "description": "Quality brake repair and replacement services in Manchester, NH. From brake pad replacements to complete system repairs, we ensure your safety on the road."
+    },
+    {
+      "name": "Oil Change Service",
+      "keywords": [
+        "oil change Manchester NH",
+        "oil change service",
+        "synthetic oil change",
+        "quick oil change Manchester"
+      ],
+      "description": "Professional oil change service in Manchester, NH to keep your engine running efficiently. We use quality oils and filters for all vehicle types."
+    },
+    {
+      "name": "Suspension Repair",
+      "keywords": [
+        "suspension repair Manchester NH",
+        "suspension service Manchester",
+        "shock and strut replacement",
+        "wheel alignment"
+      ],
+      "description": "Complete suspension repair services for smoother rides and better handling in Manchester, NH. We repair shocks, struts, springs, and alignment issues."
+    },
+    {
+      "name": "AC Repair & Service",
+      "keywords": [
+        "AC repair Manchester NH",
+        "car air conditioning service",
+        "AC recharge Manchester",
+        "auto AC repair"
+      ],
+      "description": "Professional air conditioning repair and service in Manchester, NH. We diagnose and fix AC problems to keep you cool during summer driving."
+    },
+    {
+      "name": "Battery Replacement",
+      "keywords": [
+        "battery replacement Manchester NH",
+        "car battery service",
+        "battery testing Manchester",
+        "auto battery replacement"
+      ],
+      "description": "Fast battery replacement and testing services in Manchester, NH. We carry quality batteries and offer professional installation for all vehicle types."
+    },
+    {
+      "name": "Exhaust System Repair",
+      "keywords": [
+        "exhaust repair Manchester NH",
+        "muffler repair Manchester",
+        "exhaust system service",
+        "catalytic converter repair"
+      ],
+      "description": "Quality exhaust system repair and replacement in Manchester, NH. We service mufflers, catalytic converters, and complete exhaust systems."
+    },
+    {
+      "name": "Driveshaft Repair & Replacement",
+      "keywords": [
+        "driveshaft repair Manchester NH",
+        "driveshaft replacement",
+        "drivetrain service Manchester",
+        "driveshaft specialist"
+      ],
+      "description": "Expert driveshaft repair and replacement services in Manchester, NH. We diagnose vibrations and drivetrain issues with precision."
+    }
+  ],
+  "owner_name": "",
+  "client_slug": "jon-s-shafts-stuff-llc",
+  "form_action": "https://design.pageone.cloud/api/leads/jon-s-shafts-stuff-llc",
+  "github_repo": "",
+  "company_name": "jon-s-shafts-stuff-llc",
+  "service_areas": [
+    {
+      "zip": "03103",
+      "city": "",
+      "state": "NH",
+      "primary": true
+    }
+  ],
+  "image_curation": null,
+  "research_brief": null,
+  "competitor_urls": [],
+  "phone_secondary": "",
+  "service_grouping": {
+    "cap": 8,
+    "tier": "standard",
+    "groups": [
+      {
+        "page": "Auto Repair Services",
+        "services": [
+          "Engine Repair",
+          "Transmission Repair",
+          "Routine Automotive Maintenance"
+        ]
+      },
+      {
+        "page": "Seasonal Services",
+        "services": [
+          "Brake Repair & Service",
+          "Oil Change Service",
+          "AC Repair & Service"
+        ]
+      },
+      {
+        "page": "Transmission Leak Inspection",
+        "solo": true,
+        "services": [
+          "Transmission Leak Inspection"
+        ]
+      },
+      {
+        "page": "Suspension Repair",
+        "solo": true,
+        "services": [
+          "Suspension Repair"
+        ]
+      },
+      {
+        "page": "Battery Replacement",
+        "solo": true,
+        "services": [
+          "Battery Replacement"
+        ]
+      },
+      {
+        "page": "Exhaust System Repair",
+        "solo": true,
+        "services": [
+          "Exhaust System Repair"
+        ]
+      },
+      {
+        "page": "Driveshaft Repair & Replacement",
+        "solo": true,
+        "services": [
+          "Driveshaft Repair & Replacement"
+        ]
+      }
+    ],
+    "grouped_count": 7,
+    "original_count": 11
+  },
+  "lead_notification_email": "",
+  "lead_notification_phone": "",
+  "google_business_profile_url": ""
+}
