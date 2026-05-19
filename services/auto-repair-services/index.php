@@ -91,7 +91,7 @@ $faqSchema = generateFAQSchema($faqs);
   background: linear-gradient(
     175deg,
     rgba(var(--color-primary-rgb), 0.94) 0%,
-    rgba(15, 26, 39, 0.89) 55%,
+    rgba(54, 81, 107, 0.89) 55%,
     rgba(var(--color-secondary-rgb), 0.83) 100%
   );
   z-index: 1;
@@ -906,7 +906,7 @@ $faqSchema = generateFAQSchema($faqs);
 <!-- ═══ Wave Divider: Maintenance → Why Choose Us ═══ -->
 <div class="divider-wave" aria-hidden="true">
   <svg viewBox="0 0 1440 80" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg">
-    <path d="M0,60 C360,20 720,80 1080,30 C1260,10 1380,50 1440,20 L1440,80 L0,80 Z" fill="var(--color-primary, #1a2b3c)"/>
+    <path d="M0,60 C360,20 720,80 1080,30 C1260,10 1380,50 1440,20 L1440,80 L0,80 Z" fill="var(--color-primary, #4A6A8C)"/>
   </svg>
 </div>
 

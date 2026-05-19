@@ -29,7 +29,7 @@ $cssVersion      = '2';
   width: 80px;
   height: 80px;
   border-radius: var(--radius-full);
-  background: rgba(6,182,212,0.12);
+  background: rgba(212,155,42,0.12);
   display: flex;
   align-items: center;
   justify-content: center;

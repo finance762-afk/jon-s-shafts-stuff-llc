@@ -47,7 +47,7 @@ $breadcrumbSchema = generateBreadcrumbSchema([
   content: '';
   position: absolute;
   inset: 0;
-  background: linear-gradient(135deg, rgba(26,43,60,0.92) 0%, rgba(15,26,39,0.88) 50%, rgba(77,94,111,0.78) 100%);
+  background: linear-gradient(135deg, rgba(74,106,140,0.92) 0%, rgba(54,81,107,0.88) 50%, rgba(107,139,171,0.78) 100%);
   z-index: 1;
 }
 .hero--about::after {
@@ -165,7 +165,7 @@ $breadcrumbSchema = generateBreadcrumbSchema([
   font-weight: 700;
   letter-spacing: 0.1em;
   color: var(--color-accent);
-  background: rgba(6,182,212,0.1);
+  background: rgba(212,155,42,0.1);
   padding: var(--space-1) var(--space-3);
   border-radius: var(--radius-full);
   margin-bottom: var(--space-4);
@@ -204,7 +204,7 @@ $breadcrumbSchema = generateBreadcrumbSchema([
   width: 64px;
   height: 64px;
   border-radius: var(--radius-full);
-  background: rgba(6,182,212,0.12);
+  background: rgba(212,155,42,0.12);
   display: flex;
   align-items: center;
   justify-content: center;

@@ -85,9 +85,9 @@ $faqSchema     = generateFAQSchema($faqs);
   inset: 0;
   background: linear-gradient(
     170deg,
-    rgba(26, 43, 60, 0.94) 0%,
-    rgba(15, 26, 39, 0.90) 50%,
-    rgba(6, 182, 212, 0.18) 100%
+    rgba(74, 106, 140, 0.94) 0%,
+    rgba(54, 81, 107, 0.90) 50%,
+    rgba(212, 155, 42, 0.18) 100%
   );
   z-index: 1;
 }
@@ -411,7 +411,7 @@ $faqSchema     = generateFAQSchema($faqs);
   width: 500px;
   height: 500px;
   border-radius: 50%;
-  background: rgba(6, 182, 212, 0.07);
+  background: rgba(212, 155, 42, 0.07);
   pointer-events: none;
 }
 .section--urgency .container {
@@ -454,7 +454,7 @@ $faqSchema     = generateFAQSchema($faqs);
   width: 56px;
   height: 56px;
   border-radius: 50%;
-  background: rgba(6, 182, 212, 0.15);
+  background: rgba(212, 155, 42, 0.15);
   display: flex;
   align-items: center;
   justify-content: center;
@@ -561,7 +561,7 @@ $faqSchema     = generateFAQSchema($faqs);
   width: 450px;
   height: 450px;
   border-radius: 50%;
-  background: rgba(6, 182, 212, 0.08);
+  background: rgba(212, 155, 42, 0.08);
   pointer-events: none;
 }
 .cta--leak .container {

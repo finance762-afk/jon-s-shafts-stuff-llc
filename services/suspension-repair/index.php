@@ -83,9 +83,9 @@ $faqSchema = generateFAQSchema($faqs);
   inset: 0;
   background: linear-gradient(
     175deg,
-    rgba(26, 43, 60, 0.94) 0%,
-    rgba(15, 26, 39, 0.90) 50%,
-    rgba(6, 182, 212, 0.25) 100%
+    rgba(74, 106, 140, 0.94) 0%,
+    rgba(54, 81, 107, 0.90) 50%,
+    rgba(212, 155, 42, 0.25) 100%
   );
   z-index: 1;
 }

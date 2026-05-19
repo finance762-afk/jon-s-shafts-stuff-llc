@@ -55,11 +55,11 @@ $cssVersion      = $cssVersion      ?? '1';
   <!-- DNS Prefetch -->
   <link rel="dns-prefetch" href="https://db.pageone.cloud">
 
-  <!-- Google Fonts: Unbounded (heading 800-900) + Source Sans 3 (body 400-600) -->
-  <link href="https://fonts.googleapis.com/css2?family=Unbounded:wght@400;600;700;800;900&family=Source+Sans+3:ital,wght@0,400;0,500;0,600;0,700;1,400&display=swap" rel="stylesheet">
+  <!-- Google Fonts: Bitter (heading 700-900) + Source Sans 3 (body 400-700) + Caveat (accent 400-700) -->
+  <link href="https://fonts.googleapis.com/css2?family=Bitter:ital,wght@0,400;0,600;0,700;0,800;0,900;1,700;1,800&family=Source+Sans+3:ital,wght@0,400;0,500;0,600;0,700;1,400&family=Caveat:wght@400;500;600;700&display=swap" rel="stylesheet">
 
   <!-- Preload heading font -->
-  <link rel="preload" href="https://fonts.gstatic.com/s/unbounded/v7/Yq6F-LOTXCb04q32xlpAtC5P68MGDAKqzaKOdg.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="preload" href="https://fonts.gstatic.com/s/bitter/v36/raxhHiqOu8IVPmnRc6SY1KXhnF_Y8fbfCL_EXFh2reU.woff2" as="font" type="font/woff2" crossorigin>
 
   <?php if (!empty($heroImagePreload)): ?>
   <!-- Preload hero image -->

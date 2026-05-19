@@ -73,7 +73,7 @@ $schemaMarkup = generateFAQSchema($faqs);
   content: '';
   position: absolute;
   inset: 0;
-  background: linear-gradient(135deg, rgba(26,43,60,0.92) 0%, rgba(15,26,39,0.85) 40%, rgba(77,94,111,0.75) 100%);
+  background: linear-gradient(135deg, rgba(74,106,140,0.92) 0%, rgba(54,81,107,0.85) 40%, rgba(107,139,171,0.75) 100%);
   z-index: 1;
 }
 .hero--home::after {
@@ -107,9 +107,9 @@ $schemaMarkup = generateFAQSchema($faqs);
   color: var(--color-accent);
   margin-bottom: var(--space-4);
   padding: var(--space-1) var(--space-4);
-  border: 1px solid rgba(6,182,212,0.3);
+  border: 1px solid rgba(212,155,42,0.3);
   border-radius: var(--radius-full);
-  background: rgba(6,182,212,0.08);
+  background: rgba(212,155,42,0.08);
 }
 .hero-text h1 {
   color: var(--color-white);
@@ -202,7 +202,7 @@ $schemaMarkup = generateFAQSchema($faqs);
 .hero-form select:focus {
   outline: none;
   border-color: var(--color-accent);
-  box-shadow: 0 0 0 3px rgba(6,182,212,0.2);
+  box-shadow: 0 0 0 3px rgba(212,155,42,0.2);
 }
 .hero-form .btn-block {
   width: 100%;
@@ -262,7 +262,7 @@ $schemaMarkup = generateFAQSchema($faqs);
   width: 48px;
   height: 48px;
   border-radius: var(--radius-full);
-  background: rgba(6,182,212,0.15);
+  background: rgba(212,155,42,0.15);
   display: flex;
   align-items: center;
   justify-content: center;
@@ -651,27 +651,27 @@ $schemaMarkup = generateFAQSchema($faqs);
           'Suspension Repair' => ['Shocks, struts, and springs', 'Wheel alignment correction', 'Smoother ride guaranteed'],
           'AC Repair & Service' => ['Refrigerant recharge service', 'Compressor and hose repair', 'Beat the NH summer heat'],
       ];
-      $imgTopics = [
-          'Engine Repair' => 'car-engine-repair-mechanic',
-          'Transmission Repair' => 'automotive-transmission-repair',
-          'Routine Automotive Maintenance' => 'car-maintenance-inspection',
-          'Transmission Leak Inspection' => 'transmission-fluid-leak-repair',
-          'Brake Repair & Service' => 'car-brake-repair-mechanic',
-          'Oil Change Service' => 'oil-change-automotive',
-          'Suspension Repair' => 'car-suspension-repair-shop',
-          'AC Repair & Service' => 'car-ac-repair-service',
+      $imgUrls = [
+          'Engine Repair' => 'https://images.unsplash.com/photo-1530046339160-ce3e530c7d2f?w=600&q=75',
+          'Transmission Repair' => 'https://images.unsplash.com/photo-1619642751034-765dfdf7c58e?w=600&q=75',
+          'Routine Automotive Maintenance' => 'https://images.unsplash.com/photo-1625047509248-ec889cbff17f?w=600&q=75',
+          'Transmission Leak Inspection' => 'https://images.unsplash.com/photo-1558618666-fcd25c85f82e?w=600&q=75',
+          'Brake Repair & Service' => 'https://images.unsplash.com/photo-1558618047-3c8c76ca7d13?w=600&q=75',
+          'Oil Change Service' => 'https://images.unsplash.com/photo-1635784065975-0b57b9bc1773?w=600&q=75',
+          'Suspension Repair' => 'https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?w=600&q=75',
+          'AC Repair & Service' => 'https://images.unsplash.com/photo-1517524008697-84bbe3c3fd98?w=600&q=75',
       ];
       foreach ($homeServices as $i => $svc):
           $tintNum = $tints[$i % 3];
           $delayNum = ($i % 3) + 1;
           $icon = $icons[$svc['name']] ?? 'wrench';
           $svcBullets = $bullets[$svc['name']] ?? ['Professional service', 'Competitive pricing', 'All vehicles welcome'];
-          $imgTopic = $imgTopics[$svc['name']] ?? 'auto-repair';
+          $imgUrl = $imgUrls[$svc['name']] ?? 'https://images.unsplash.com/photo-1486262715619-67b85e0b08d3?w=600&q=75';
           $serviceSlug = $svc['slug'];
       ?>
       <article class="service-card-with-image card-tint-<?php echo $tintNum; ?> reveal-up reveal-delay-<?php echo $delayNum; ?>">
         <div class="service-card__image">
-          <img src="https://source.unsplash.com/600x400/?<?php echo urlencode($imgTopic); ?>" alt="<?php echo htmlspecialchars($svc['name']); ?> at <?php echo htmlspecialchars($siteName); ?> in Manchester, NH" width="600" height="360" loading="lazy">
+          <img src="<?php echo htmlspecialchars($imgUrl); ?>" alt="<?php echo htmlspecialchars($svc['name']); ?> at <?php echo htmlspecialchars($siteName); ?> in Manchester, NH" width="600" height="360" loading="lazy">
         </div>
         <div class="service-card__body">
           <div class="service-card__icon"><i data-lucide="<?php echo htmlspecialchars($icon); ?>"></i></div>

@@ -46,7 +46,7 @@ $breadcrumbSchema = generateBreadcrumbSchema([
   content: '';
   position: absolute;
   inset: 0;
-  background: linear-gradient(160deg, rgba(26,43,60,0.93) 0%, rgba(15,26,39,0.87) 55%, rgba(6,182,212,0.35) 100%);
+  background: linear-gradient(160deg, rgba(74,106,140,0.93) 0%, rgba(54,81,107,0.87) 55%, rgba(212,155,42,0.35) 100%);
   z-index: 1;
 }
 .hero--area::after {
@@ -182,7 +182,7 @@ $breadcrumbSchema = generateBreadcrumbSchema([
   width: 52px;
   height: 52px;
   border-radius: var(--radius-full);
-  background: rgba(6,182,212,0.12);
+  background: rgba(212,155,42,0.12);
   display: flex;
   align-items: center;
   justify-content: center;
@@ -212,7 +212,7 @@ $breadcrumbSchema = generateBreadcrumbSchema([
   font-weight: 700;
   letter-spacing: 0.08em;
   color: var(--color-accent);
-  background: rgba(6,182,212,0.1);
+  background: rgba(212,155,42,0.1);
   padding: var(--space-1) var(--space-3);
   border-radius: var(--radius-full);
   margin-bottom: var(--space-3);
@@ -240,7 +240,7 @@ $breadcrumbSchema = generateBreadcrumbSchema([
   position: absolute;
   bottom: var(--space-6);
   left: var(--space-6);
-  background: rgba(26,43,60,0.92);
+  background: rgba(74,106,140,0.92);
   backdrop-filter: blur(8px);
   color: var(--color-white);
   padding: var(--space-4) var(--space-6);
@@ -354,7 +354,7 @@ $breadcrumbSchema = generateBreadcrumbSchema([
   content: '';
   position: absolute;
   inset: 0;
-  background: radial-gradient(circle at 20% 50%, rgba(6,182,212,0.15) 0%, transparent 60%);
+  background: radial-gradient(circle at 20% 50%, rgba(212,155,42,0.15) 0%, transparent 60%);
   pointer-events: none;
 }
 .area-cta .container {

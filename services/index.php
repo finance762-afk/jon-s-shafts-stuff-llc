@@ -47,7 +47,7 @@ $schemaMarkup = generateBreadcrumbSchema([
   content: '';
   position: absolute;
   inset: 0;
-  background: linear-gradient(180deg, rgba(26,43,60,0.93) 0%, rgba(15,26,39,0.88) 60%, rgba(77,94,111,0.82) 100%);
+  background: linear-gradient(180deg, rgba(74,106,140,0.93) 0%, rgba(54,81,107,0.88) 60%, rgba(107,139,171,0.82) 100%);
   z-index: 1;
 }
 .hero--services::after {
@@ -209,7 +209,7 @@ $schemaMarkup = generateBreadcrumbSchema([
   width: 400px;
   height: 400px;
   border-radius: 50%;
-  background: rgba(6,182,212,0.08);
+  background: rgba(212,155,42,0.08);
   pointer-events: none;
 }
 .cta-services .container {

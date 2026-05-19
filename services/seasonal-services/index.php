@@ -90,9 +90,9 @@ $faqSchema = generateFAQSchema($faqs);
   inset: 0;
   background: linear-gradient(
     160deg,
-    rgba(26,43,60,0.94) 0%,
-    rgba(15,26,39,0.90) 45%,
-    rgba(6,182,212,0.30) 100%
+    rgba(74,106,140,0.94) 0%,
+    rgba(54,81,107,0.90) 45%,
+    rgba(212,155,42,0.30) 100%
   );
   z-index: 1;
 }
@@ -152,7 +152,7 @@ $faqSchema = generateFAQSchema($faqs);
   width: 400px;
   height: 400px;
   border-radius: 50%;
-  background: radial-gradient(circle, rgba(6,182,212,0.15) 0%, transparent 70%);
+  background: radial-gradient(circle, rgba(212,155,42,0.15) 0%, transparent 70%);
   pointer-events: none;
   z-index: 1;
 }
@@ -388,7 +388,7 @@ $faqSchema = generateFAQSchema($faqs);
   width: 350px;
   height: 350px;
   border-radius: 50%;
-  background: rgba(6,182,212,0.07);
+  background: rgba(212,155,42,0.07);
   pointer-events: none;
 }
 .seasonal-tips .section-title h2 {
@@ -437,7 +437,7 @@ $faqSchema = generateFAQSchema($faqs);
   width: 48px;
   height: 48px;
   border-radius: 50%;
-  background: rgba(6,182,212,0.15);
+  background: rgba(212,155,42,0.15);
   display: flex;
   align-items: center;
   justify-content: center;
@@ -548,7 +548,7 @@ $faqSchema = generateFAQSchema($faqs);
   width: 500px;
   height: 500px;
   border-radius: 50%;
-  background: rgba(6,182,212,0.08);
+  background: rgba(212,155,42,0.08);
   pointer-events: none;
 }
 .seasonal-cta::after {
@@ -559,7 +559,7 @@ $faqSchema = generateFAQSchema($faqs);
   width: 350px;
   height: 350px;
   border-radius: 50%;
-  background: rgba(6,182,212,0.05);
+  background: rgba(212,155,42,0.05);
   pointer-events: none;
 }
 .seasonal-cta .container {

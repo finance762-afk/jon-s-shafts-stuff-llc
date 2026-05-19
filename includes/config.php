@@ -55,9 +55,9 @@ $secondaryKeywords = [
 
 // ─── Colors (from build plan) ────────────────────────────────
 $colors = [
-    'primary'   => '#1a2b3c',
-    'secondary' => '#4d5e6f',
-    'accent'    => '#06b6d4',
+    'primary'   => '#4A6A8C',
+    'secondary' => '#6B8BAB',
+    'accent'    => '#D49B2A',
 ];
 
 // ─── Services ────────────────────────────────────────────────

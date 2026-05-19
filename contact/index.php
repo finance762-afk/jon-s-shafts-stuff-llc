@@ -35,7 +35,7 @@ $breadcrumbSchema = generateBreadcrumbSchema([
   align-items: center;
   justify-content: center;
   text-align: center;
-  background: linear-gradient(135deg, rgba(26,43,60,0.95) 0%, rgba(15,26,39,0.92) 50%, rgba(77,94,111,0.85) 100%);
+  background: linear-gradient(135deg, rgba(74,106,140,0.95) 0%, rgba(54,81,107,0.92) 50%, rgba(107,139,171,0.85) 100%);
   position: relative;
   overflow: hidden;
   padding: calc(var(--nav-height) + var(--space-12)) var(--space-4) var(--space-12);
@@ -130,7 +130,7 @@ $breadcrumbSchema = generateBreadcrumbSchema([
 .contact-form textarea:focus {
   outline: none;
   border-color: var(--color-accent);
-  box-shadow: 0 0 0 3px rgba(6,182,212,0.15);
+  box-shadow: 0 0 0 3px rgba(212,155,42,0.15);
 }
 .contact-form textarea {
   resize: vertical;
