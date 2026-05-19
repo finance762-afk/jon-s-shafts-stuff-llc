@@ -8,7 +8,7 @@ $pageTitle       = "Transmission Leak Inspection Manchester NH | Jon's Shafts & 
 $pageDescription = "Expert transmission leak inspection in Manchester, NH. Jon's Shafts & Stuff diagnoses fluid leaks fast at 518 Silver St — 33 years keeping Manchester vehicles on the road safely.";
 $canonicalUrl    = $siteUrl . '/services/transmission-leak-inspection/';
 $currentPage     = 'services';
-$heroImagePreload = 'https://images.unsplash.com/photo-1558618666-fcd25c85f82e?w=1920&q=80';
+$heroImagePreload = 'https://images.unsplash.com/photo-1537462715879-360eeb61a0ad?w=1920&q=80';
 $cssVersion      = '2';
 
 // ─── Service Data ──────────────────────────────────────────────
@@ -72,7 +72,7 @@ $faqSchema     = generateFAQSchema($faqs);
   align-items: center;
   justify-content: center;
   text-align: center;
-  background-image: url('https://images.unsplash.com/photo-1558618666-fcd25c85f82e?w=1920&q=80');
+  background-image: url('https://images.unsplash.com/photo-1537462715879-360eeb61a0ad?w=1920&q=80');
   background-size: cover;
   background-position: center;
   position: relative;

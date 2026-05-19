@@ -430,7 +430,7 @@ $breadcrumbSchema = generateBreadcrumbSchema([
         <p>Whether you commute on I-93, run errands on Second Street, or haul equipment through the industrial side of South Willow, we know how Manchester driving wears on vehicles — and we fix accordingly.</p>
       </div>
       <div class="area-intro-image reveal-right">
-        <img src="https://images.unsplash.com/photo-1558618666-fcd25c85f82e?w=800&q=80" alt="Mechanic performing auto repair in Manchester, NH at <?php echo htmlspecialchars($siteName); ?>" width="600" height="420" loading="lazy">
+        <img src="https://images.unsplash.com/photo-1537462715879-360eeb61a0ad?w=800&q=80" alt="Mechanic performing auto repair in Manchester, NH at <?php echo htmlspecialchars($siteName); ?>" width="600" height="420" loading="lazy">
         <div class="accent-corner"></div>
       </div>
     </div>

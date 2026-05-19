@@ -1116,7 +1116,7 @@ $faqSchema = generateFAQSchema($faqs);
       $relatedImages = [
           'Transmission Repair'          => 'https://images.unsplash.com/photo-1619642751034-765dfdf7c58e?w=600&q=75',
           'Suspension Repair'            => 'https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?w=600&q=75',
-          'Transmission Leak Inspection'  => 'https://images.unsplash.com/photo-1558618047-3c8c76ca7d13?w=600&q=75',
+          'Transmission Leak Inspection'  => 'https://images.unsplash.com/photo-1493238792000-8113da705763?w=600&q=75',
       ];
       $relatedIcons = [
           'Transmission Repair'          => 'settings',

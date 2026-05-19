@@ -7,7 +7,7 @@ $pageTitle       = "Battery Replacement Manchester NH | Testing & Installation |
 $pageDescription = "Battery replacement and load testing in Manchester, NH. Standard, AGM, and deep-cycle batteries installed at 518 Silver St. 33 years keeping vehicles starting through NH winters.";
 $canonicalUrl    = $siteUrl . '/services/battery-replacement/';
 $currentPage     = 'services';
-$heroImagePreload = 'https://images.unsplash.com/photo-1620230874645-0d85afd9b96a?w=1920&q=80';
+$heroImagePreload = 'https://images.unsplash.com/photo-1562911791-c7a97b729ec5?w=1920&q=80';
 $cssVersion      = '2';
 
 // ─── Schema ────────────────────────────────────────────────────
@@ -70,7 +70,7 @@ $faqSchema = generateFAQSchema($faqs);
   align-items: center;
   justify-content: center;
   text-align: center;
-  background-image: url('https://images.unsplash.com/photo-1620230874645-0d85afd9b96a?w=1920&q=80');
+  background-image: url('https://images.unsplash.com/photo-1562911791-c7a97b729ec5?w=1920&q=80');
   background-size: cover;
   background-position: center 40%;
   position: relative;

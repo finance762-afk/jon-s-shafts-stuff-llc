@@ -655,9 +655,9 @@ $schemaMarkup = generateFAQSchema($faqs);
           'Engine Repair' => 'https://images.unsplash.com/photo-1530046339160-ce3e530c7d2f?w=600&q=75',
           'Transmission Repair' => 'https://images.unsplash.com/photo-1619642751034-765dfdf7c58e?w=600&q=75',
           'Routine Automotive Maintenance' => 'https://images.unsplash.com/photo-1625047509248-ec889cbff17f?w=600&q=75',
-          'Transmission Leak Inspection' => 'https://images.unsplash.com/photo-1558618666-fcd25c85f82e?w=600&q=75',
-          'Brake Repair & Service' => 'https://images.unsplash.com/photo-1558618047-3c8c76ca7d13?w=600&q=75',
-          'Oil Change Service' => 'https://images.unsplash.com/photo-1635784065975-0b57b9bc1773?w=600&q=75',
+          'Transmission Leak Inspection' => 'https://images.unsplash.com/photo-1537462715879-360eeb61a0ad?w=600&q=75',
+          'Brake Repair & Service' => 'https://images.unsplash.com/photo-1493238792000-8113da705763?w=600&q=75',
+          'Oil Change Service' => 'https://images.unsplash.com/photo-1504222490345-c075b6008014?w=600&q=75',
           'Suspension Repair' => 'https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?w=600&q=75',
           'AC Repair & Service' => 'https://images.unsplash.com/photo-1517524008697-84bbe3c3fd98?w=600&q=75',
       ];

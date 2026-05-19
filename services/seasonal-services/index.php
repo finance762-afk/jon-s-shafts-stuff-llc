@@ -651,7 +651,7 @@ $faqSchema = generateFAQSchema($faqs);
       <!-- Brake Repair & Service -->
       <article class="service-card-with-image card-tint-1 reveal-left reveal-delay-1">
         <div class="service-card__image">
-          <img src="https://images.unsplash.com/photo-1558618047-3c8c76ca7d13?w=600&q=75" alt="Brake repair and rotor service in Manchester NH" width="600" height="360" loading="lazy">
+          <img src="https://images.unsplash.com/photo-1493238792000-8113da705763?w=600&q=75" alt="Brake repair and rotor service in Manchester NH" width="600" height="360" loading="lazy">
         </div>
         <div class="service-card__body">
           <div class="service-card__icon"><i data-lucide="disc"></i></div>
@@ -669,7 +669,7 @@ $faqSchema = generateFAQSchema($faqs);
       <!-- Oil Change Service -->
       <article class="service-card-with-image card-tint-2 reveal-up reveal-delay-2">
         <div class="service-card__image">
-          <img src="https://images.unsplash.com/photo-1635784065975-0b57b9bc1773?w=600&q=75" alt="Oil change service in Manchester NH auto shop" width="600" height="360" loading="lazy">
+          <img src="https://images.unsplash.com/photo-1504222490345-c075b6008014?w=600&q=75" alt="Oil change service in Manchester NH auto shop" width="600" height="360" loading="lazy">
         </div>
         <div class="service-card__body">
           <div class="service-card__icon"><i data-lucide="droplets"></i></div>
@@ -720,7 +720,7 @@ $faqSchema = generateFAQSchema($faqs);
       <div class="reveal-right" style="position:relative;">
         <div class="detail-accent-corner detail-accent-corner--tl" aria-hidden="true"></div>
         <div class="detail-image">
-          <img src="https://images.unsplash.com/photo-1558618047-3c8c76ca7d13?w=800&q=80" alt="Mechanic inspecting brake rotor at Jon's Shafts and Stuff in Manchester NH" width="800" height="600" loading="lazy">
+          <img src="https://images.unsplash.com/photo-1493238792000-8113da705763?w=800&q=80" alt="Mechanic inspecting brake rotor at Jon's Shafts and Stuff in Manchester NH" width="800" height="600" loading="lazy">
         </div>
         <div class="detail-accent-corner detail-accent-corner--br" aria-hidden="true"></div>
       </div>
@@ -743,7 +743,7 @@ $faqSchema = generateFAQSchema($faqs);
       <div class="reveal-left" style="position:relative;">
         <div class="detail-accent-corner detail-accent-corner--tl" aria-hidden="true"></div>
         <div class="detail-image">
-          <img src="https://images.unsplash.com/photo-1635784065975-0b57b9bc1773?w=800&q=80" alt="Oil change service at auto shop in Manchester New Hampshire" width="800" height="600" loading="lazy">
+          <img src="https://images.unsplash.com/photo-1504222490345-c075b6008014?w=800&q=80" alt="Oil change service at auto shop in Manchester New Hampshire" width="800" height="600" loading="lazy">
         </div>
         <div class="detail-accent-corner detail-accent-corner--br" aria-hidden="true"></div>
       </div>

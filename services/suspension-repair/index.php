@@ -879,7 +879,7 @@ $faqSchema = generateFAQSchema($faqs);
       <?php
       $relatedNames = ['Brake Repair & Service', 'Driveshaft Repair & Replacement', 'Exhaust System Repair'];
       $relatedImages = [
-          'Brake Repair & Service'          => 'https://images.unsplash.com/photo-1558618047-3c8c76ca7d13?w=600&q=75',
+          'Brake Repair & Service'          => 'https://images.unsplash.com/photo-1493238792000-8113da705763?w=600&q=75',
           'Driveshaft Repair & Replacement'  => 'https://images.unsplash.com/photo-1600880292203-757bb62b4baf?w=600&q=75',
           'Exhaust System Repair'            => 'https://images.unsplash.com/photo-1615906655593-ad0386982a0f?w=600&q=75',
       ];
