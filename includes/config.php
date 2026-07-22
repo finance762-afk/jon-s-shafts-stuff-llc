@@ -201,7 +201,7 @@ $serviceAreas = [
 $socialLinks = [];
 
 // ─── Form ────────────────────────────────────────────────────
-$formAction = 'https://design.pageone.cloud/api/leads/jon-s-shafts-stuff-llc';
+$formAction = 'https://db.pageone.cloud/functions/v1/leads/jon-s-shafts-stuff-llc';
 
 // ─── Analytics ───────────────────────────────────────────────
 $googleAnalyticsId = 'G-XXXXXXXXXX';
