@@ -42,6 +42,9 @@ DirectoryIndex index.php index.html
 # Clean URLs
 <IfModule mod_rewrite.c>
     RewriteEngine On
+
+    # Dynamic sitemap — /sitemap.xml served by sitemap.php (2026-08-23)
+    RewriteRule ^sitemap\.xml$ /sitemap.php [L]
     RewriteCond %{REQUEST_URI} !^/assets/
     RewriteCond %{REQUEST_URI} !^/includes/
     RewriteCond %{REQUEST_FILENAME} !-f
