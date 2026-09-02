@@ -117,12 +117,6 @@ $cssVersion      = $cssVersion      ?? '1';
         "closes": "17:00"
       }
     ],
-    "aggregateRating": {
-      "@type": "AggregateRating",
-      "ratingValue": "4.8",
-      "reviewCount": "120",
-      "bestRating": "5"
-    },
     "areaServed": [
       {
         "@type": "City",
